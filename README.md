@@ -1,7 +1,7 @@
 # foto_gram
 
 
-In this App I use Firebase to add user, to user authorization, add new foto and stream this photos in my app.
+In this App I use Firebase to add user, to user authorization, add new foto and stream this photos in my app. App opens in the same way on both platform(IOS and Android)!
 
 Login page(first page) 
 There are 2 text fields for email and password(they have check function, it's mean that  password text field must contain more than 6 symbols, email text field must contain "@",".".Password text field default hide your password, but if you wish you can press the button and see it. 
