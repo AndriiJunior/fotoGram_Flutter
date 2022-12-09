@@ -29,7 +29,8 @@ Profile Page
 There you can see photo of user account, and then photos which this user upload.
 
 
-![Снимок экрана 2022-12-09 в 10 49 49](https://user-images.githubusercontent.com/32870399/206678043-76b95499-7277-4715-bc41-86d2af69a755.png)
+
+![Снимок экрана 2022-12-09 в 12 22 39](https://user-images.githubusercontent.com/32870399/206680634-3ad46025-f4b1-43e0-9b88-100c377366af.png)
 
 
 
