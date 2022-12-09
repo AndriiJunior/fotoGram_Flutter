@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "125179838352",
+    "project_id": "fotogram-fa6e6",
+    "storage_bucket": "fotogram-fa6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125179838352:android:c3febb10c13d3ec7727d15",
+        "android_client_info": {
+          "package_name": "com.example.foto_gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125179838352-d8vv8soonqijv2rm6t251g87e0fgmp55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnaSzMzL6ALkf7AaPb8XJkh6kdiZXpjSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125179838352-d8vv8soonqijv2rm6t251g87e0fgmp55.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125179838352-o685203ije87ie1em76f1msqo847jisl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fotoGram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
