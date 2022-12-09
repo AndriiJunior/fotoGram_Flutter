@@ -1,6 +1,5 @@
 # foto_gram
 
-A new Flutter project.
 
 In this App I use Firebase to add user, to user authorization, add new foto and stream this photos in my app.
 
