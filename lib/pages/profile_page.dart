@@ -55,7 +55,7 @@ class _ProfilePageState extends State<ProfilePage> {
         decoration: BoxDecoration(
           image: DecorationImage(
             image: NetworkImage(_firebaseService!.currentUser!['image']),
-            fit: BoxFit.contain,
+            fit: BoxFit.cover,
           ),
           shape: BoxShape.circle,
           border: Border.all(width: 5, color: Colors.red),
